@@ -11,7 +11,7 @@
   <name>yiran-activiti</name>
   <url>http://maven.apache.org</url>
   <properties>
-        <activiti.version>5.22.0</activiti.version>
+        <activiti.version>7.0.0.GA</activiti.version>
     </properties>
     <dependencies>
 		<!-- activiti -->
