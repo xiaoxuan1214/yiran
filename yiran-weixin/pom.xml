@@ -20,7 +20,7 @@
 	<dependency>
 		<groupId>com.github.binarywang</groupId>
 		<artifactId>weixin-java-mp</artifactId>
-		<version>2.7.0</version>
+		<version>3.4.0</version>
 	</dependency>
     <!-- 系统模块-->
     <dependency>
