@@ -14,7 +14,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<shiro.version>1.4.0</shiro.version>
+		<shiro.version>2.0.5</shiro.version>
 		<thymeleaf.extras.shiro.version>2.0.0</thymeleaf.extras.shiro.version>
 		<mybatis.boot.version>1.3.2</mybatis.boot.version>
 		<redis.version>1.4.7.RELEASE</redis.version>
@@ -25,7 +25,7 @@
 		<pagehelper.boot.version>1.2.5</pagehelper.boot.version>
 		<oshi.version>3.9.1</oshi.version>
 		<mysql.connector.java.version>5.1.41</mysql.connector.java.version>
-		<jwt.auth0.version>3.2.0</jwt.auth0.version>
+		<jwt.auth0.version>4.5.0</jwt.auth0.version>
 		<validation.api.version>1.1.0.Final</validation.api.version>
 	</properties>
 	
